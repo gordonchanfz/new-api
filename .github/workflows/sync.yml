@@ -1,4 +1,4 @@
-name: Run Sync NEW API
+name: Run Sync
 
 on:
   schedule:
